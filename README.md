@@ -6,5 +6,5 @@ Official repository for the **ICLR 2026** paper:
 
 ## Status
 
-🚧 **Code coming soon. Thank you for your patience.**
+🚧 **Code coming soon. **
 
