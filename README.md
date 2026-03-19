@@ -1,3 +1,10 @@
-# OAIMS
+# You Point, I Learn: Online Adaptation of Interactive Segmentation Models for Handling Distribution Shifts in Medical Imaging
 
-The code will be available soon.
+Official repository for the **ICLR 2026** paper:
+
+**You Point, I Learn: Online Adaptation of Interactive Segmentation Models for Handling Distribution Shifts in Medical Imaging**
+
+## Status
+
+🚧 **Code coming soon. Thank you for your patience.**
+
