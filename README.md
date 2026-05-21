@@ -11,6 +11,7 @@ An online adaptation method for interactive segmentation models that learns to a
 <p align="center">
   <img src="mainfigure.png" width="100%">
 </p>
+
 ## Setup
 
 ```bash
