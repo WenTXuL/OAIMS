@@ -7,7 +7,6 @@ checkpoints/*.ckpt
 checkpoints/*.h5
 checkpoints/*.bin
 data_paths.md
-pre_BRATS_png_brats2023.py
 *.tar
 *.tar.gz
 .env
